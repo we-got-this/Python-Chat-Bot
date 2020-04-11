@@ -1,0 +1,38 @@
+user : 1
+bot : Hey!!! It good to hear from you. Greetings!
+user : How is it going?
+bot : Good
+user : 2
+bot : Awww!!! Why you are sad? Is everything alirght in your life
+user : no
+bot : Everything will be fine soon trust me.
+user : Yeah, Thanks
+bot : Lets start again. Hi what's your name?
+user : my name is uzair
+bot : Nice to meet you. How are you feeling today?
+user : I am not feeling well
+bot : It looks like you are sad, so how about we do something what do you like?
+user : I like music
+bot : Great: Let listen some good sound. Here are my recommendations https://www.youtube.com/watch?v=aaNrAiUNHtQ, https://www.youtube.com/watch?v=pRpeEdMmmQ0
+user : Oh, Thanks
+bot : Pleasure is all mine.
+user : Bye. Nice talking to you
+bot : Bye bye
+user : thanks for helping me out
+bot : you're most welcome
+user : 3
+bot : Oh!!! It looks like you are not feeling well
+user : I am feeling sick
+bot : Okay. can you tell me what's wrong? what are your symptoms?
+user : I am shivering.
+bot : This is a symptom of fever, you should take a tablet of crocin after you have your meal.
+user : Ok, i will take the crocin.
+bot : let me know if you are feeling better after having crocin.
+user : I took crocin.
+bot : Good, now take some rest and then let me know if you are feeling better after having crocin.
+user : No, i am still not felling better after having crocin.
+bot : Ok, its not just a normal fever, you should consult a doctor.
+user : I am feeling weak.
+bot : This is a symptom of fever, you should take a tablet of crocin after you have your meal.
+user : Oh, Thanks
+bot : Pleasure is all mine.
